@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-pane .tab-bar .tab": [
+      {
+        "label": "Duplicate Tab",
+        "command": "duplicate-tab:duplicate"
+      }
+    ]
+  }
+}

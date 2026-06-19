@@ -1,0 +1,13 @@
+{
+  "name": "duplicate-tab",
+  "main": "./lib/main.js",
+  "version": "1.0.0",
+  "description": "Add a 'Duplicate Tab' option to the tabs right-click context menu",
+  "repository": "https://github.com/sparklost/pulsar-duplicate-tab",
+  "license": "MIT",
+  "bugs": "https://github.com/sparklost/pulsar-duplicate-tab/issues",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": ["duplicate", "tab"]
+}

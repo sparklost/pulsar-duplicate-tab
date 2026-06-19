@@ -1,0 +1,5 @@
+{
+  "atom-pane": {
+    "ctrl-alt-d": "duplicate-tab:duplicate"
+  }
+}
