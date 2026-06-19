@@ -1,4 +1,4 @@
-# pulsar-duplicate-tab
+# duplicate-tab
 A package for Pulsar Editor that adds a 'Duplicate Tab' option to the tabs right-click context menu.
 
 ## Usage
